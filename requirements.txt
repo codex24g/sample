@@ -1,2 +1,2 @@
-tensorflow
+pip install tensorflow
 keras_cv
