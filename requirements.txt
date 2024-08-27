@@ -1,2 +1,2 @@
-pip install tensorflow
+tensorflow==2.15.0
 keras_cv
